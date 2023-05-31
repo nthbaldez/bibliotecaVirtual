@@ -28,7 +28,7 @@
 Here are the prerequisites to run this project:
 
 - [NodeJS](https://nodejs.org/en)
-- [Git 2](https://git-scm.com/downloads)
+- [Git](https://git-scm.com/downloads)
 
 <h3>Cloning</h3>
 
