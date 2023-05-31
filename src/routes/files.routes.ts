@@ -1,6 +1,6 @@
 import { Router } from 'express';
-import { createFileController } from '../modules/books/controllers/useCase/createFile';
-import { listFilesController } from '../modules/books/controllers/useCase/listFiles';
+import { createFileController } from '../modules/files/controllers/useCase/createFile';
+import { listFilesController } from '../modules/files/controllers/useCase/listFiles';
 
 
 const filesRoutes = Router();
