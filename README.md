@@ -32,15 +32,15 @@ Here are the prerequisites to run this project:
 
 <h3>Cloning</h3>
 
-How to clone your project
+How to clone this project
 
 ```bash
-git clone your-project-url-in-github
+https://github.com/nthbaldez/bibliotecaVirtual.git
 ```
 
 <h3>Starting</h3>
 
-How to start your project
+How to start the project
 
 ```bash
 cd project-name
