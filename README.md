@@ -55,7 +55,7 @@ Special thank you for all people that contributed for this project.
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/61896274?v=4" width="100px;" alt="Nathan Baldez Developer Profile"/><br>
+<!--         <img src="https://avatars.githubusercontent.com/u/61896274?v=4" width="100px;" alt="Nathan Baldez Developer Profile"/><br> -->
         <sub>
           <b>Nathan Baldez</b>
         </sub>
