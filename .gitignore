@@ -1,2 +1,3 @@
 /node_modules
-/requisitos.md
+/karma.conf.js
+/webpack.config.js
