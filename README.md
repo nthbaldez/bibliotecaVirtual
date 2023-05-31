@@ -49,8 +49,6 @@ npm run dev
 
 <h2 id="colab">🤝 Collaborators</h2>
 
-Special thank you for all people that contributed for this project.
-
 <table>
   <tr>
     <td align="center">
