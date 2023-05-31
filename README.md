@@ -25,10 +25,10 @@
 
 <h3>Prerequisites</h3>
 
-Here you list all prerequisites necessary for running your project. For example:
+Here are the prerequisites to run this project:
 
-- [NodeJS](https://github.com/)
-- [Git 2](https://github.com)
+- [NodeJS](https://nodejs.org/en)
+- [Git 2](https://git-scm.com/downloads)
 
 <h3>Cloning</h3>
 
@@ -44,6 +44,7 @@ How to start your project
 
 ```bash
 cd project-name
+npm install
 npm run dev
 ```
 
